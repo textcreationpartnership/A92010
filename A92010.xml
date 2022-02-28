@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lavvfulnes of obeying the present government· Proposed by one that loves all Presbyterian lovers of truth and peace, and is of their communion.</title>
+            <author>Rous, Francis, 1579-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92010</idno>
+            <idno type="STC">Wing R2020</idno>
+            <idno type="STC">Thomason E551_22</idno>
+            <idno type="STC">ESTC R13759</idno>
+            <idno type="EEBO-CITATION">99859540</idno>
+            <idno type="PROQUEST">99859540</idno>
+            <idno type="VID">111629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111629)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E551[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lavvfulnes of obeying the present government· Proposed by one that loves all Presbyterian lovers of truth and peace, and is of their communion.</title>
+                  <author>Rous, Francis, 1579-1659.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright, at the Kings Head in the Old Bailey,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis Rous.</note>
+                  <note>Annotation on Thomason copy: "Aprill 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111629:1"/>
+            <pb facs="tcp:111629:1" rendition="simple:additions"/>
+            <p>THE LAVVFULNES Of obeying the Preſent Government.</p>
+            <p>
+               <hi>Propoſed</hi> By one that loves all Presbyterian lovers of Truth and Peace, and is of their Communion.</p>
+            <q>
+               <bibl>
+                  <hi>JOHN 7.24.</hi>
+               </bibl>
+               <p>Judge not according to the appearance, but judge righteous judgement.</p>
+            </q>
+            <p>Printed at <hi>London</hi> for <hi>John Wright,</hi> at the Kings Head in the Old Bailey.
+1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111629:2"/>
+            <pb n="1" facs="tcp:111629:2"/>
+            <head>The lawfulneſſe of obeying the pre<g ref="char:EOLhyphen"/>ſent Government.</head>
+            <argument>
+               <p>A Declaration hath been lately publiſhed, wherein the grounds are expreſt of ſetling the preſent Govern<g ref="char:EOLhyphen"/>ment, with which if any be not ſo far ſatisfied as to think that ſettlement lawfull, yet even to ſuch is this Diſcourſe directed, which propoſeth Proofes, that though the change of a Government were belee<g ref="char:EOLhyphen"/>ved not to be lawfull, yet it may lawfully be obeyed.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle intreating of purpoſe upon the duty of ſubmiſſion and obedience to Authority, layes down this precept;<note place="margin">Rom. 13.</note> 
+               <hi>Let every ſoul be ſubject to the higher powers, for there is no power but of God; the powers that are, are ordained of God;</hi> and hereupon infers, <hi>Wherefore ye muſt needs
+<pb n="2" facs="tcp:111629:3"/> be ſubject not only for wrath, but for conſcience ſake.</hi> And that he ſpeakes not in this place meerly of po<g ref="char:EOLhyphen"/>wer or authority abſtracted from perſons,<note place="margin">Poteſtatis no<g ref="char:EOLhyphen"/>mine, intelligo Magiſtratum, qui eſt cum po<g ref="char:EOLhyphen"/>testate &amp; auto<g ref="char:EOLhyphen"/>ritate, maluit tamen Apoſto<g ref="char:EOLhyphen"/>lus ipſam pote<g ref="char:EOLhyphen"/>ſtatem nominare quàm hominem &amp;c. Rolloc. in locum. <hi>1. Tim. 2.2.</hi>
+               </note> but of perſons cloathed with that authority, appeares in that he ſaith; <hi>For, rulers are not a terrour to good workes.</hi> So that he ſpeakes of perſons ruling, as well as of the power by which they rule. And againe, <hi>He is the Miniſter of God,</hi> and they are Gods Miniſters; &amp; accordingly he directs
+<hi>Timothy,</hi> to pray for a bleſ<g ref="char:EOLhyphen"/>ſing upon thoſe that are in authority. Now if the Powers, Rulers, and thoſe that were in authority in that time were ordained of God, and were to be obeyed for conſcience ſake, let us conſider how lawfully they came into that power, rule, and authority. This Epiſtle moſt probably, if not certainly, was written in the time of
+<hi>Claudius Caeſar,</hi> or <hi>Nero,</hi>
+               <note place="margin">Acts 18.1, 2.</note> the former of which baniſhed the Jews out of <hi>Rome,</hi> upon which occaſion <hi>Aquila</hi> and
+<hi>Priſcilla</hi> came out to meet with <hi>Paul</hi> at <hi>Corinth:</hi> and by the ſentence of the latter, <hi>Paul</hi> having made his appeale to <hi>Caeſar</hi> finiſhed his courſe, and paſſed unto a crowne of righteouſneſſe. And now, behold the lawfulneſſe by which theſe two perſons came to be inveſted in their power and authority.<note place="margin">
+                  <q>Timore caedis exterritus pro<g ref="char:EOLhyphen"/>repſit ad ſolari<g ref="char:EOLhyphen"/>um proximum, inter<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> praeten<g ref="char:EOLhyphen"/>ta foribus vela<g ref="char:EOLhyphen"/>ſe abdidit; la<g ref="char:EOLhyphen"/>tentem, diſcur<g ref="char:EOLhyphen"/>rens forte gre<g ref="char:EOLhyphen"/>garius
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iles animadverſis pedibus, è ſtudio ſciſcitandi quiſ<g ref="char:EOLhyphen"/>nam eſſet, agno<g ref="char:EOLhyphen"/>vit, extractum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> &amp; praemetu ad genua ſibi acci<g ref="char:EOLhyphen"/>dentem, Impe<g ref="char:EOLhyphen"/>ratorem, ſaluta<g ref="char:EOLhyphen"/>vit. Hinc ad alios commili<g ref="char:EOLhyphen"/>tones fluctuanies, nec quio quam ad<g ref="char:EOLhyphen"/>huc quàm fre<g ref="char:EOLhyphen"/>mentes perdux<g ref="char:EOLhyphen"/>it. Ab his lecti<g ref="char:EOLhyphen"/>cae impoſitus, &amp; quia ſervi dif<g ref="char:EOLhyphen"/>fugerant, vi<g ref="char:EOLhyphen"/>ciſſim ſuccollan<g ref="char:EOLhyphen"/>tibus, in caſtra delatus eſt, triſtis ac trepi<g ref="char:EOLhyphen"/>dus miſerante obvia <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ba, quaſi ad paenam raperetur inſons. Receptus intra vallum, inter excubias mili<g ref="char:EOLhyphen"/>tum pernocta<g ref="char:EOLhyphen"/>vit, aliquanto minore ſpe quàm fiducia. Nam Conſule cum Senatu, &amp; co<g ref="char:EOLhyphen"/>hortibus urbanis forum capito<g ref="char:EOLhyphen"/>lium<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> occupa<g ref="char:EOLhyphen"/>runt, aſſeriuri comunem liber<g ref="char:EOLhyphen"/>tatem, accituſq, &amp; ipſe per Tribunum plebis in curiam ad ſuadenda quae viderentur, vi ſe &amp; neceſſitate teneri reſpondit. Verum poſtero die Senatu ſegriore in exequendis conatibus per raedium ac diſſentionem diverſa cenſentium, &amp; multitudine quae circumſtabat, umum rectorem jam &amp; nominatim expoſcente, armator pro concione jurare in nomen ſuum paſſus eſt, promiſit<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſingulis quinadena <hi>H.S.</hi> primus Caſa<g ref="char:EOLhyphen"/>rum fidem militis, etiam praemio pigneratus. <hi>Sueton in Claudio.</hi> Agrippina velut dolore victa, &amp; ſolatia conquirens, tenere amplexu Britannicum veram paterni oris effigiem ap<g ref="char:EOLhyphen"/>pellare, &amp;c. Antoniam quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> &amp; Octaviam attinuit, &amp; cunctos aditus cuſtodiis clauſerat, crebro<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vulgabat ire in melius valetudinem principis, quò miles bona in ſpe ageret, tempuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> proſperum ex monitis Chaldaeorum attentaret. Tunc medio dici, tertio ante idus Octobr. foribus palatii repente diductis, comitante <hi>Burrho, Nero</hi> egreditur ad cohortem, quae more militia ex<g ref="char:EOLhyphen"/>cubiis adeſt, ubi monente praefecto, feſtis vocibus exceptus, inditur lecticae. Dubitaviſſe quoſ<g ref="char:EOLhyphen"/>dam ferunt reſpectantes rogitanteſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ubi Britannicus eſſet? Mox nullo in diverſum auctore, quae offerrebantur ſecuti ſunt. Illatuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> caſtris <hi>Nero,</hi> &amp; congruentia tempori praefatus, pro<g ref="char:EOLhyphen"/>miſſo donativo ad exemplum paternae largitionis Imperator conſalutatur. Sententiam militum ſecura patrum conſulta, nec dubitatum eſt apud provincias.
+<bibl>
+                        <hi>Tacit. Annal. Lib. 12.</hi>
+                     </bibl>
+                  </q>
+               </note>
+            </p>
+            <p>Of <hi>Claudius Caeſar</hi> the Story tells us this; After the death of <hi>Caius Caligula,</hi> the Conſuls and Senate of <hi>Rome</hi> entred into a conſultation, how they might re<g ref="char:EOLhyphen"/>ſtore the Common-wealth to her ancient freedom, which by the <hi>Caeſars</hi> had been taken from them. So that the taking in of an Emperour, and conſequent<g ref="char:EOLhyphen"/>ly of <hi>Claudius</hi> for Emperour, was directly againſt
+<pb n="3" facs="tcp:111629:3"/> the wills and reſolution of the Conſuls and Senate; yet theſe anciently for many hundred yeares had the chiefe power of Government; But ſee the way of <hi>Claudius</hi> his coming to the Empire; during the <hi>Interregnum, Claudius</hi> being frighted with the newes of <hi>Caligula's</hi> death, and fearing himſelfe might be enquired for upon ſuſpicion with-drew, and hid himſelfe behind the Hangings, or covering of a doore; where a Souldier ſeeing his feet, and deſi<g ref="char:EOLhyphen"/>rous to know what he was drew him forth, and up<g ref="char:EOLhyphen"/>on knowledge of him ſaluted him Emperour, though even then for feare falling downe low be<g ref="char:EOLhyphen"/>fore him. This one Souldier brought him forth to his fellow Souldiers, who lifted him up as Empe<g ref="char:EOLhyphen"/>rour; and thus while the Senate was ſlow in execu<g ref="char:EOLhyphen"/>ting their purpoſes, and differences grew among them,
+<hi>Claudius,</hi> who was ſent for by the Senate to give in his councell concerning the common free<g ref="char:EOLhyphen"/>dome, undertooke the Empire. Thus in one Soul<g ref="char:EOLhyphen"/>dier at firſt, and then in more, was the foundation of <hi>Claudius</hi> his Emperiall power, againſt the will, conſultations, and endeavours of Conſuls and Se<g ref="char:EOLhyphen"/>nate. And for <hi>Nero</hi> (his Succeſſor)
+<hi>Britannicus,</hi> who was nearer of kin to <hi>Claudius,</hi> being his Son, was kept in by the cunning of <hi>Neroes</hi> mother, and by the ſame craft <hi>Nero</hi> being brought forth to the Soul<g ref="char:EOLhyphen"/>diery, was firſt ſaluted Emperour by them. This ſentence of the Souldiers was followed with the conſent of the Senate, and then it was not ſcrupled in the Provinces; ſo that the Souldiery was alſo the foundation of <hi>Neroes</hi> Empire. Thus we ſee Rulers
+<pb n="4" facs="tcp:111629:4"/> put by Souldiers into that power which is ſaid by the Scripture to be ordained of God; and even to theſe Rulers men muſt be ſubject for con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>But paſſing from the Romane ſtate to our owne; ſure we are that in this Nation many perſons have beene ſetled in ſupreame power and authority by meere force without title of inheritance, or juſt conqueſt. And it hath been obſerved by ſome that accurately have looked into our ſtory, that not any three immediately ſucceeding each other, came to the Crowne by true lineall ſucceſſion and order of blood. Neither is there any great difficulty in find<g ref="char:EOLhyphen"/>ing it, untill we come to Queene <hi>Mary,</hi> whoſe title being by an inceſtuous marriage, theſe obſervers ſay that Queene <hi>Elizabeth</hi> ſhould have raigned in her ſtead; However, we are cleerly told by ſtory, that five Kings on a row (of which the Conquer was the firſt) had no title at all by lineall deſcent and prox<g ref="char:EOLhyphen"/>imity of blood. The firſt came in by force; The
+<pb n="5" facs="tcp:111629:4"/> ſecond and third had an elder Brother living when they came to the Crowne; The fourth raigned when his Predeceſſor had a Daughter, and Heire living which was <hi>Mawd</hi> the Empreſſe; The fifth being the Son of that Empreſſe, raigned while his Mother was alive, by whom his Title came. But leaving theſe, and <hi>Edward</hi> the third who raigned in his Fathers life time, and the three <hi>Henries;</hi> fourth, fifth, and ſixt, who raigned upon the
+<hi>Lan<g ref="char:EOLhyphen"/>caſtrian</hi> (that is a younger Brothers) Title, Let us more particularly conſider
+<hi>Henry</hi> the ſeventh;<note place="margin">See Speed in <hi>H. 7.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.</hi> &amp; Seq.</note> This <hi>Henry</hi> came in with an Army, and by meere power was made King in the Army, and by the Ar<g ref="char:EOLhyphen"/>my; ſo that in the very field where he got the Victory, the Crowne was ſet upon his head, and there he gave Knight-hood to divers; And upon this foundation of military power, he got himſelfe afterwards to be ſolemnely Crowned at <hi>Weſtminſter.</hi> And ſoone after upon authority thus gotten, he called a Parliament, and in that Parliament was the Crowne entailed upon him and his Heires. Thus both his Crowne and his Parliament were founded upon power; As for any right Title, he could have none; for he came from a Baſtard of <hi>John</hi> of <hi>Gaunt,</hi> which though legitimated by Parliament for com<g ref="char:EOLhyphen"/>mon Inheritances, yet expreſſely was excluded from right to the Crowne. And for his wives Title, that came in after his Kingſhip, and his Parliament, which before had ſetled the Crowne upon him and his Heirs. And he was ſo farre from exerciſing au<g ref="char:EOLhyphen"/>thority in her right, that her name is not uſed in any
+<pb n="6" facs="tcp:111629:5"/> Lawes as Queene <hi>Maries</hi> was, both before and after her marriage with the Spaniſh King. Now this and the reſt who came in by meere power without Title of inheritance, being in their opinion who are now unſatisfied, to be held unlawfull, yet the maine body of this Nation did obey them, whilſt they ru<g ref="char:EOLhyphen"/>led, yea doth yield ſubjection to their Lawes to this very day. And the learned in the Lawes doe con<g ref="char:EOLhyphen"/>tinually plead, judge, juſtify, and condemne accor<g ref="char:EOLhyphen"/>ding to theſe Lawes; So that herein the very voyce of the Nation with one conſent ſeemes to ſpeake aloud; That thoſe whoſe Title is held unlawfull, yet being poſſeſt of authority may lawfully be o<g ref="char:EOLhyphen"/>beyed.</p>
+            <p>And hereunto Divines and Caſuiſts give their concurrence; among them one that is reſolute both for Monarchy and lineall Succeſſion, thus expreſ<g ref="char:EOLhyphen"/>ſeth his judgement, both for ſeeking of right and juſtice from an uſurper (whom he calleth a Tyrant, in regard of an unjuſt Title, not in reſpect of Ty<g ref="char:EOLhyphen"/>ranicall oppreſſion) and for obeying his commands.<note place="margin">
+                  <p>Dicendum eſt, licitè ſubditos ab eo (qui tyrannus jure &amp; titulo eſt) jus petere, quià quamvis jus &amp; titulum non habeat, res<g ref="char:EOLhyphen"/>publica tamen tacitè conſentit in hoc ut civibus ipſi Tyranno, Facto, non jure ſubditis, jus di<g ref="char:EOLhyphen"/>cat, acſi eſſet competens judex &amp; legitimus ſuperior. Item, ſi mandata tyranni ſint aqua, &amp; juſta, parendum eſt. Azor. Inſt. Mor. Par. <hi>2.</hi> Lib. <hi>10.</hi> Cap <hi>4.</hi> Non peccat ſubditus ty<g ref="char:EOLhyphen"/>ranni, qui dominium &amp; juriſdictionem alicujus ditienis uſurpavit, petendo ab eo juſtitia admini<g ref="char:EOLhyphen"/>ſtrationem, &amp;c. Siquidem dat operam ut qui peccat juriſdictionem uſurpando, non peccet etiam ju<g ref="char:EOLhyphen"/>ſtitiae adminiſtrationem praetermittendo; Ex Navarrie manual. cap. <hi>14. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 41.</hi>
+                  </p>
+                  <p>Si mandata principis, alioqui Tyranni, ſint aequa et juſta, parendum eſt. <hi>Alſted, Theol. Caſ. Cap. 17.</hi>
+                  </p>
+               </note> Firſt, that Subjects may lawfully ſeek juſtice of him; And ſecondly, that if his commands be lawfull and juſt, they muſt be obeyed. And another well e<g ref="char:EOLhyphen"/>ſteemed in the Reformed Churches, is of the ſame judgement.</p>
+            <p>
+               <pb n="7" facs="tcp:111629:5"/>
+               <hi>Paraeus</hi> ſaith,<note place="margin">
+                  <p>Civilem &amp; herilem expreſſo verbo ſancit. <hi>Gen. 9.</hi>
+                  </p>
+                  <p>Qui ſanguinem hominis fuderit, ejus ſa guis eti<g ref="char:EOLhyphen"/>am fundetur ab homine. Non uti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> à quovis; prohiburt enim, non occides: Sed à Magiſtratu divinitus ordi<g ref="char:EOLhyphen"/>nato. Nec refert quibus modis vel artibus Nimrod, Jero<g ref="char:EOLhyphen"/>boam, aut alii regna ſibi para<g ref="char:EOLhyphen"/>verint. Nam a<g ref="char:EOLhyphen"/>liud eſt poteſtas quae à Deo eſt; aliud acquiſitio et uius poteſta<g ref="char:EOLhyphen"/>tis. Parae. in
+<hi>Rom. 13.</hi>
+                  </p>
+                  <p>Poſeſtatis Himrodi initrium fuit quidum malum &amp;c. Quum igitur quaeritur cui parendum, non eſt ſpectandum qualis ſic qui poteſtarem exercei, nec quo jure vel injuriâ, quis poteſtatam in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſerit, quave ratione cam adminiſtres, ſed tantum ſi poteſtatem habeat. Si enim quis poteſtate po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et iam i<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>bilatum eſt illum a deo cem poteſtatem accepiſſe, unde ſine onmi exceptione illi te permittat oportes, &amp; pareas ex animo.</p>
+               </note> That it matters not by what means or craft <hi>Nimrod, Jerobeam,</hi> got Kingdomes to them<g ref="char:EOLhyphen"/>ſelves; For the power is one thing which is of God, and the getting and the uſe of the power is another; And after: The beginning of <hi>Nimrods</hi> power was indeed evill, as to the getting and uſurping power, becauſe abuſing his ſtrength, force, &amp; wealth, he vio<g ref="char:EOLhyphen"/>lently ſubdued others, and compelled them to o<g ref="char:EOLhyphen"/>bey; but not the power or force wherewith he ſee<g ref="char:EOLhyphen"/>med to be indeed by God, above others; And ano<g ref="char:EOLhyphen"/>ther more plainely. When a queſtion is made whom we ſhould obey; it muſt not be lookt at what he is that exerciſeth the power, or by what right or wrong he hath invaded the power, or in what man<g ref="char:EOLhyphen"/>ner he doth diſpence it, but onely if he have power. For if any man doe excell in power, it is now out of doubt, that he received that power of God; where<g ref="char:EOLhyphen"/>fore without all exception thou muſt yield thy ſelfe up to him, and heartily obey him.</p>
+            <p>And indeed how can it be otherwiſe? for when a perſon or perſons have gotten Supreme power, and by the ſame excluded all other from authority, ei<g ref="char:EOLhyphen"/>ther that authority which is thus taken by power muſt be obeyed, or elſe all authority and govern<g ref="char:EOLhyphen"/>ment muſt fall to the ground; &amp; ſo confuſion (which is worſe then tituler Tyranny) be admitted into
+<pb n="8" facs="tcp:111629:6"/> a Common-wealth; And (according to the doctrine of King <hi>James</hi>) the King being for the Common-wealth, and not the Common-wealth for the King, the end ſhould be deſtroyed for the meanes, the whole for a part. If a Maſters mate had throwne the Maſter over Board, and by power would ſuffer no other to guide the Ship but himſelfe; if the Marri<g ref="char:EOLhyphen"/>ners will not obey him commanding aright for the ſafe guiding of the Ship, the Ship muſt needs periſh and themſelves with it. And whereas ſome ſpeake of a time for ſetlement, they indeed do rather ſpeak for a time of unſetlement; for they will have an un<g ref="char:EOLhyphen"/>ſetlement firſt, and a ſetlement after. And whereas like doth produce its like; yet they would have an unſetlement to beget a ſetlement. They would have confuſion, diſtraction, deſtruction to bring forth or<g ref="char:EOLhyphen"/>der and ſafety. But the former Scriptures ſpeake not of the future, but of the preſent time; not of obeying thoſe that ſhall be powers, and ſhall be in authority; but the powers that are, and thoſe that are in authority. Neither doe the Caſuiſts and Di<g ref="char:EOLhyphen"/>vines ſpeake of obedience to thoſe that ſhall be ſet<g ref="char:EOLhyphen"/>led but thoſe that are in actuall poſſeſſion of autho<g ref="char:EOLhyphen"/>rity. Neither did our Anceſtors in the former exam<g ref="char:EOLhyphen"/>ples defer obedience to the Kings that came in by power without Title; but gave it preſently, being preſently veſted and poſſeſſed of authority. Beſides, let it be conſidered whether that may not be called a ſetlement, how ſoone ſoever it is when there is ſuch a way ſetled that men may have Juſtice if they will, and may enjoy that maine end of Ma<g ref="char:EOLhyphen"/>giſtracie,
+<pb n="9" facs="tcp:111629:6"/> to live a peaceable life in godlineſſe and honeſty.</p>
+            <p>And indeed when one is in poſſeſſion by power, and another pretends a Title, what can the maine body of a Nation, which conſiſts of the Common-people doe in this caſe?<note place="margin">What Right had <hi>William</hi> ſurnamed the Conquerour? what Right (we ſpeake of a Right of equi<g ref="char:EOLhyphen"/>ty) had his Sons <hi>William</hi> the ſe<g ref="char:EOLhyphen"/>cond, and <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the firſt, while their el<g ref="char:EOLhyphen"/>der brother li<g ref="char:EOLhyphen"/>ved, &amp;c. Par<g ref="char:EOLhyphen"/>liaments as Kingdomes, give their voice with power; &amp; he who hath the force doth commonly carry the effect of Right. Speed in <hi>H.</hi> 4. The King (<hi>H.</hi> 7.) made ſpeed to <hi>London</hi> as to the chiefe ſeate and Epitome of the Engliſh Monarchy &amp;c. The Mayor of <hi>London</hi> and his Fellowſhip received him in Violet at <hi>Horneſey</hi> Parke; but his entrance (which was at <hi>Shorditch</hi>) was honoured with a very great troope of the Peeres and No<g ref="char:EOLhyphen"/>bles in his Trayne, &amp;c. The whole Houſe of Parliament concurring finally in eſtabliſhing by a ſolemne Act, the Crowne upon him and his Heires for ever. <hi>Id.</hi> in <hi>H.</hi> 7.</note> They cannot judge of Ti<g ref="char:EOLhyphen"/>tles; but thy ſee who doth viſibly and actually ex<g ref="char:EOLhyphen"/>erciſe power and authority. Yea even Learned men, and States men have been found ignorant of the former obſervations, of the not ſucceeding three in order of blood ſince the Conqueſt; and then how ſhould the Common people know it? Yet further, even Peeres, chiefe Cities, Parliaments, and all having to one in every three, thus ſubjected them<g ref="char:EOLhyphen"/>ſelves upon termes of power and not of right; what can be expected but that what hath been done, may or ſhould be done hereafter? eſpecially when in this preſent age obedience is given to the Lawes and Commands of thoſe Princes? But ſome ſay that there are Oathes that juſtifie diſobedience to the preſent Government. Surely Oathes are ſacred bonds and reverent obligements, and where they doe not themſelves leave or make us free, we are not to cut or breake them in peices; Yet concer<g ref="char:EOLhyphen"/>ning theſe there are faults on both hands: On the
+<pb n="10" facs="tcp:111629:7"/> one ſide the ſlighting of an Oath, (and ſuch is the comparing it with an Almanack) which is a light aſwell as an unproper compariſon; except it were ſuch an Oath as was made onely for a yeare; But we finde ſome part of the Vow and Covenant to ſpeake of all the dayes of our lives, which doubt<g ref="char:EOLhyphen"/>leſſe may lye on many of the takers for many years; True it is that the obligation of ſome things may end, becauſe they can no longer be kept, as that of the Kings perſon;<note place="margin">Regula juris. Im ſſibilium nulla eſt obliga<g ref="char:EOLhyphen"/>tio.</note> for to impoſſible things there is no obligation: but will any man that underſtands, and ſavours Religion and Piety, ſay that the clauſes which concerne Religion and Piety are expired? Did we promiſe to God in our ſeverall places and callings, to extripate Profaneneſſe, Hereſie, and Blaſphemy, and to endeavour a reformed life in our ſelves and ours; onely till our Enemies were overcome, and then to make an end? What were this but to ſay unto God, If thou wilt deliver us, we will be bound to thee till we are delivered and no longer? Would this invite God to deliver us from our enemies, or rather to keepe our Enemies ſtill in ſtrength againſt us? leaſt we being delivered from our Enemies ſhould not ſerve him in righte<g ref="char:EOLhyphen"/>ouſneſſe and holineſſe all our lives. Surely this is too like that courſe of carnall <hi>Iſrael,</hi> of whom it is writ<g ref="char:EOLhyphen"/>ten,<note place="margin">Pſal. 78.34.</note> 
+               <hi>When he ſlew them, then they ſought him, and they enquired early after God; but their heart, was not right with him, neither were they ſteſtfad in his Covenant.</hi> Much more piouſly and faithfully a reverend and truly ſpirituall Divine; <hi>A well groun<g ref="char:EOLhyphen"/>ded
+<pb n="11" facs="tcp:111629:7"/> Covenant is a ſure,</hi>
+               <note place="margin">Mr. <hi>Carill</hi> in his Sermon up<g ref="char:EOLhyphen"/>on <hi>Nehe.</hi> 9.38. concerning the Covenant. <hi>Octob.</hi> 6. 1643.</note> 
+               <hi>a firme and an irrevocable Act. When you have ſuch an</hi> All This <hi>(and ſuch you have) as is here concentred in the Text, to lay into, or for the foundation of the Covenant; the ſuperſtruction (as aeternitati ſacrum and) muſt ſtand for ever.</hi>
+            </p>
+            <p>But on the other ſide there are other faults; ſuch are the urging of an Oath or Covenant againſt ene<g ref="char:EOLhyphen"/>mies, and not againſt friends in one and the ſame Action; and if not altogether ſo, yet a ſlight and diminiſhing charge of it upon one, and a vehement and aggravating charge of it upon the other. Ano<g ref="char:EOLhyphen"/>ther fault may be, a ſtiffe inſiſting on one part, and a neglect, or at leaſt ſilence in another part; as like<g ref="char:EOLhyphen"/>wiſe when by event two parts of it come to be in<g ref="char:EOLhyphen"/>conſiſtent, to chuſe and inforce the keeping of the lighter or leſſe neceſſary part, and to give way to the loſſe and not keeping of the greater. There is another, in racking an Oath or Covenant, to make it ſpeake that which it meant not. And here it were good to conſider, whether there be any clauſe in any Oath or Covenant, which in a faire and com<g ref="char:EOLhyphen"/>mon ſence forbids obedience to the commands of the preſent Government and Authority, much leſſe when no other can be had, and ſo the Common-wealth muſt goe to ruine.<note place="margin">Quando res illa, quam quis jura<g ref="char:EOLhyphen"/>mento confirma<g ref="char:EOLhyphen"/>vit, eſt nimis ard<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a; aut quando quis qui j<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>vit, ex muta<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> virium vel fortuna, effectus eſt pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um aptus ad id exequendum; aut deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quando res juramento confirmata eſt jucanti, impedimenio, ne bo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> publico conſulat, tunc eſt legitima cauſe diſpenſanti in juramento. <hi>Sayr. lib. 5. c. 8. n. 12.</hi>
+               </note> And whether it forbids obedience to the preſent Authority more then to Lawes that have beene formerly enacted, by
+<pb n="12" facs="tcp:111629:8"/> thoſe which came into Authority meerly by power?<note place="margin">Si id quod jura<g ref="char:EOLhyphen"/>mus, primò fue<g ref="char:EOLhyphen"/>rit licitum, poſteà cauſis aliis in<g ref="char:EOLhyphen"/>tervenientibus illicitum fiat, aut etiam impoſ<g ref="char:EOLhyphen"/>ſibile, tum nullo modo conſcien<g ref="char:EOLhyphen"/>tiam obligat. <hi>Alſted. Theol. Caſ. cap. 15.</hi>
+               </note> If it be ſaid that in the Oath of Allegiance, Allegi<g ref="char:EOLhyphen"/>ance is ſworne to the King, his Heires, and Succeſ<g ref="char:EOLhyphen"/>ſors, if His Heires be not His Succeſſors, how doth that Oath binde? either the word Succeſſors muſt be ſuperfluous, or elſe it muſt binde to Succeſſors as well as to Heires; and if it binds not to a Succeſſor, that is not an Heire, how can it binde to an Heire that is not a Succeſſor? And if you will know the common and uſuall ſence (which ſhould be the meaning of an Oath) of the word Succeſſors,<note place="margin">Jusjurandum in foro conſcien<g ref="char:EOLhyphen"/>tiae ſemper eſt interpretandum juxta mentem jurantis; at in fo<g ref="char:EOLhyphen"/>ro exteriori ſeu judiciali ſemper eſt judicandum ſecundum com<g ref="char:EOLhyphen"/>munem ſenſum, quem ipſa verbae reddunt, &amp; ſe<g ref="char:EOLhyphen"/>cundum commu<g ref="char:EOLhyphen"/>nem hominum uſum. <hi>Alſted. cap. 15. n. 13.</hi>
+               </note> you need not ſo much aske of Lawyers and learned perſons, as of men of ordinary knowledge, and de<g ref="char:EOLhyphen"/>mand of them, Who was the Succeſſor of <hi>William</hi> the Conquerour, and ſee whether they will not ſay, <hi>William Rufus;</hi> and who ſucceeded
+<hi>Richard</hi> the third, and whether they will not ſay <hi>Henry</hi> the ſeventh? and yet (as it appeares before) neither of them was Heire. So it ſeemes in the ordinary accep<g ref="char:EOLhyphen"/>tion, the word Succeſſor is taken for him that actually ſucceeds in Government, and not for him that is actually excluded. And as in Language the ordinary acception of a word is to be taken for the meaning, ſo that meaning is to be underſtood as moſt proper to have been taken in an Oath.</p>
+            <p>Yet withall this Quaere may be added; While the Son is in the ſame poſture in which the Fa<g ref="char:EOLhyphen"/>ther was, how comes this Oath at this time to ſtand up and plead for diſobedience in regard of the Son, that was aſleep and ſilent in regard of the Father?</p>
+            <p>
+               <pb n="13" facs="tcp:111629:8"/>Thus have I gone towards peace (as I beleeve) in the way of truth; and as farre as it is truth, and no further, I deſire it may be received. I alſo wiſh that thoſe who read and examine it, may doe it (as I profeſſe ſincerely my ſelfe to have endea<g ref="char:EOLhyphen"/>voured) with a calme, cleare, and peaceable ſpi<g ref="char:EOLhyphen"/>rit, without prejudice or partiſhip. And I doubt not but to ſuch upright ſeekers of Truth, Truth will appeare in a true ſhape; whereas partiall and prejudiced mindes ſpeake unto Truth what they would have her ſpeake unto them, and doe not heare her what ſhe ſaith of her ſelfe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
